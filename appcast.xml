@@ -3,7 +3,7 @@
     <channel>
         <title>ProjectTool</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0.0.Beta1</title>
             <description>
                 <![CDATA[
                     <h3>2019-05-29</h3>
@@ -16,11 +16,11 @@
             </description>
             <pubDate>周三, 19 5月 2019 18:00:17 +0800</pubDate>
             <enclosure url="https://dev.tencent.com/u/yao7778899/p/ProjectTool/git/raw/master/ProjectTool_V1.0.0.Beta1.zip"
-            length="6990880"
+            length="7030595"
             sparkle:version="190529"
             sparkle:shortVersionString="1.0.0.Beta1"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQCSWTf/Cml4HIMk+oDIEwZ08os9nu1Ez3GRR0b9Go3MDAIgHSKDB7D+XUa62KNcH+8HqG9CiswHAu2HPPt4BoFMEPg=" />
+            sparkle:dsaSignature="MEQCIFOOMCSXrXGBAZ8VCPy6mbmiRGQreT6wVMjfkKgLAnXUAiAcTtdZjrV3nlWEDtr51iDQzV+IKFL7K45hywEBXMubeQ==" />
         </item>
     </channel>
 </rss>
