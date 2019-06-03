@@ -3,24 +3,24 @@
     <channel>
         <title>ProjectTool</title>
         <item>
-            <title>Version 1.0.0.Beta1</title>
+            <title>Version 1.0.0.Beta2</title>
             <description>
                 <![CDATA[
-                    <h3>2019-05-29</h3>
+                    <h3>2019-06-03</h3>
 
                     <ul>
-                    <li>1、第一个测试版</li>
+                    <li>1、增加自动清理缓存功能，修复有可能导致生成的项目无法运行的问题</li>
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周三, 19 5月 2019 18:00:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/ProjectTool/git/raw/master/ProjectTool_V1.0.0.Beta1.zip"
-            length="7030595"
-            sparkle:version="190529"
-            sparkle:shortVersionString="1.0.0.Beta1"
+            <pubDate>周一, 03 6月 2019 10:50:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/ProjectTool/git/raw/master/ProjectTool_V1.0.0.Beta2.zip"
+            length="7032531"
+            sparkle:version="190603"
+            sparkle:shortVersionString="1.0.0.Beta2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIFOOMCSXrXGBAZ8VCPy6mbmiRGQreT6wVMjfkKgLAnXUAiAcTtdZjrV3nlWEDtr51iDQzV+IKFL7K45hywEBXMubeQ==" />
+            sparkle:dsaSignature="MEUCIEZNQGML8X877p9dWqsvgpvXH+NZGxN3p7uyCqDNiLhXAiEAnoTbi7UZInqDV2KIAf2wag5DO3nwlKk4Lg/S0aDQb94=" />
         </item>
     </channel>
 </rss>
